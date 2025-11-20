@@ -1,6 +1,6 @@
 ---
 created: 2025-11-20T06:05:00-05:00
-modified: 2025-11-20T06:09:02-05:00
+modified: 2025-11-20T10:21:32-05:00
 ---
 
 # Gardening
@@ -14,8 +14,8 @@ its pieces strewn about - a chaos.
 "Plant my own garden.
 Decorate my own soul."  
 But the vase is all scattered!  
-I'm digging like my old my 
+I'm digging like my old man
 and his. Inner knee still braced
-against the wood - digging
+against the wood of the shovel - digging
 for wilder flowers as a man
-without a case.
+without a vase.
